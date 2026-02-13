@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Microsoft MarkItDown
 date: 2026-02-12T16:37:36.292041
 categories:
