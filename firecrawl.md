@@ -2,6 +2,16 @@
 title: Firecrawl Complete Guide - Turn Any Website into LLM-Ready Data (2026)
 description: Comprehensive tutorial on Firecrawl API for web scraping, markdown conversion, and AI data preparation
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-12LPWFYSG2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-12LPWFYSG2');
+</script>
+
+
 
 # Firecrawl: Convert Any Website to Markdown for AI Processing (2026)
 
