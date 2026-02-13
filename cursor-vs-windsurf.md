@@ -2,6 +2,16 @@
 title: Cursor vs Windsurf - Complete Comparison of AI Code Editors 2026
 description: In-depth comparison of Cursor and Windsurf AI code editors, features, pricing, performance, and which one to choose for your workflow
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-12LPWFYSG2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-12LPWFYSG2');
+</script>
+
+
 
 # Cursor vs Windsurf: Which AI Code Editor is Better in 2026?
 
