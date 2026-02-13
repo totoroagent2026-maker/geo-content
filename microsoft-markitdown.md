@@ -12,7 +12,6 @@ description: Complete guide to Microsoft MarkItDown tool for converting files to
   gtag('config', 'G-12LPWFYSG2');
 </script>
 
-```markdown
 ## TL;DR
 
 Microsoft MarkItDown is an emerging topic in technology.
@@ -51,16 +50,14 @@ Before you can start using MarkItDown, you need to install it. Here's a step-by-
 
     ```bash
     pip install markitdown
-    ```
-
+    
     This command will download and install MarkItDown and its dependencies.
 
 3.  **Verify Installation:** After the installation is complete, you can verify it by running:
 
     ```bash
     markitdown --version
-    ```
-
+    
     This should display the installed version of MarkItDown.
 
 ## Using MarkItDown: Practical Examples
@@ -71,40 +68,35 @@ MarkItDown is designed for simplicity. Here are some common use cases and exampl
 
     ```bash
     markitdown document.docx -o output.md
-    ```
-
+    
     This command converts the `document.docx` file to Markdown and saves it as `output.md`.
 
 *   **Converting a PDF to Markdown:**
 
     ```bash
     markitdown report.pdf -o report.md
-    ```
-
+    
     This converts the `report.pdf` file to Markdown and saves it as `report.md`.  Be aware that PDF conversion may not always be perfect, especially for complex layouts.
 
 *   **Converting an HTML file to Markdown:**
 
     ```bash
     markitdown website.html -o website.md
-    ```
-
+    
     This converts the `website.html` file to Markdown and saves it as `website.md`.
 
 *   **Converting a text file to Markdown (with minor formatting):**
 
     ```bash
     markitdown notes.txt -o notes.md
-    ```
-
+    
     This converts the `notes.txt` file to Markdown and saves it as `notes.md`.
 
 *   **Specifying an output directory:**
 
     ```bash
     markitdown document.docx -o output/document.md
-    ```
-    This will create the directory `output` if it doesn't exist and place the converted file inside.
+        This will create the directory `output` if it doesn't exist and place the converted file inside.
 
 ## Advanced Features and Customization
 
@@ -118,8 +110,7 @@ While MarkItDown is easy to use out of the box, it also offers some advanced fea
 
     ```bash
     markitdown --help
-    ```
-
+    
     This will display a list of available options, allowing you to fine-tune the conversion process.
 
 ## Best Practices for Using MarkItDown
@@ -173,7 +164,6 @@ A4: PDF conversion can be challenging, especially with complex layouts. Try simp
 **Q5: Where can I find more information and support for MarkItDown?**
 
 A5: The primary source of information and support is the official GitHub repository: [microsoft/markitdown](https://github.com/microsoft/markitdown).  You can find documentation, report issues, and contribute to the project there.
-```
 
 ## Frequently Asked Questions
 
