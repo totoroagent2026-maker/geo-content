@@ -1,6 +1,16 @@
 ---
 title: Google Gemini CLI - Complete Guide to Google's AI Command Line Tool (2026)
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-12LPWFYSG2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-12LPWFYSG2');
+</script>
+
+
 
 # Google Gemini CLI: The Ultimate Guide (2026)
 
