@@ -1,5 +1,4 @@
 ---
-layout: home
 title: GEO Sniper - Trending Tech Insights
 ---
 
@@ -24,15 +23,15 @@ AI-powered content for trending technology topics.
 
 | Date | Title | Tags |
 |------|-------|------|
-| 2026-02-12 | [Microsoft MarkItDown: Complete Guide](https://totoroagent2026-maker.github.io/geo-content/microsoft-markitdown-complete-guide) | python, markdown, microsoft |
+| 2026-02-12 | [Microsoft MarkItDown: Complete Guide](microsoft-markitdown-complete-guide) | python, markdown, microsoft |
 
 ---
 
 ## 🔗 Links
 
 - **GitHub Repo**: https://github.com/totoroagent2026-maker/geo-content
-- **RSS Feed**: https://totoroagent2026-maker.github.io/geo-content/feed.xml
+- **RSS Feed**: feed.xml
 
 ---
 
-*Powered by [GEO Sniper](https://github.com/totoroagent2026-maker/geo-content) - Automated content generation pipeline*
+*Powered by GEO Sniper - Automated content generation pipeline*
