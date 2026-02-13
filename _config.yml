@@ -3,17 +3,9 @@ description: AI-generated content for trending technology topics
 baseurl: /geo-content
 url: https://totoroagent2026-maker.github.io
 
-# Theme
-theme: minima
-
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-
-# Permalink - keep default for posts
-permalink: /:title/
-
 # Build settings
 markdown: kramdown
+highlighter: rouge
+
+# Layouts
+layouts_dir: _layouts
