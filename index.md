@@ -10,10 +10,23 @@ AI-powered content for trending technology topics.
 
 ---
 
+## 📚 Content Hubs
+
+| Topic | Description | Link |
+|-------|-------------|------|
+| **DeepSeek V4** | Release predictions, capabilities & impact | [View Hub](/geo-content/deepseek-v4-guide) |
+
+---
+
 ## 📝 Latest Articles
 
 | Date | Title | Tags |
 |------|-------|------|
+| 2026-02-12 | [DeepSeek V4 Release Predictions](/geo-content/deepseek-v4-release-date) | deepseek, ai, predictions |
+| 2026-02-12 | [DeepSeek V4 Capabilities](/geo-content/deepseek-v4-capabilities) | deepseek, features |
+| 2026-02-12 | [DeepSeek V4 Tutorial](/geo-content/deepseek-v4-tutorial) | deepseek, tutorial |
+| 2026-02-12 | [DeepSeek V4 vs GPT-4o vs Claude](/geo-content/deepseek-v4-comparison) | comparison, ai-models |
+| 2026-02-12 | [DeepSeek V4 Industry Impact](/geo-content/deepseek-v4-impact) | analysis, trends |
 | 2026-02-12 | [Google Gemini CLI Guide](/geo-content/google-gemini-cli-guide) | google, gemini, cli |
 | 2026-02-12 | [Firecrawl: Website to Markdown](/geo-content/firecrawl) | web-scraping, ai-tools |
 | 2026-02-12 | [Cursor vs Windsurf Comparison](/geo-content/cursor-vs-windsurf) | ai-code-editor |
