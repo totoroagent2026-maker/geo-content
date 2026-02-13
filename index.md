@@ -6,16 +6,7 @@ title: GEO Sniper - Trending Tech Insights
 
 AI-powered content for trending technology topics.
 
-> Automatically monitoring Reddit & GitHub → Generating SEO-optimized articles → Publishing to GitHub Pages
-
----
-
-## 📊 Stats
-
-- **Monitoring**: Reddit, GitHub Trending
-- **Content**: AI-generated with Gemini API
-- **Frequency**: Daily at 8:00 AM PST
-- **Analytics**: Google Analytics enabled
+> Automatically monitoring Reddit, GitHub & Polymarket → Generating SEO-optimized articles
 
 ---
 
@@ -23,15 +14,18 @@ AI-powered content for trending technology topics.
 
 | Date | Title | Tags |
 |------|-------|------|
-| 2026-02-12 | [Microsoft MarkItDown: Complete Guide](microsoft-markitdown-complete-guide) | python, markdown, microsoft |
+| 2026-02-12 | [Google Gemini CLI Guide](/geo-content/google-gemini-cli-guide) | google, gemini, cli |
+| 2026-02-12 | [Firecrawl: Website to Markdown](/geo-content/firecrawl) | web-scraping, ai-tools |
+| 2026-02-12 | [Cursor vs Windsurf Comparison](/geo-content/cursor-vs-windsurf) | ai-code-editor |
+| 2026-02-12 | [Microsoft MarkItDown Guide](/geo-content/microsoft-markitdown) | markdown, microsoft |
 
 ---
 
-## 🔗 Links
+## 🔗 Resources
 
-- **GitHub Repo**: https://github.com/totoroagent2026-maker/geo-content
-- **RSS Feed**: feed.xml
+- **GitHub**: https://github.com/totoroagent2026-maker/geo-content
+- **RSS**: https://totoroagent2026-maker.github.io/geo-content/feed.xml
 
 ---
 
-*Powered by GEO Sniper - Automated content generation pipeline*
+*Powered by [GEO Sniper](https://github.com/totoroagent2026-maker/geo-content)*
