@@ -1,11 +1,10 @@
-# GEO Sniper Jekyll Configuration
 title: GEO Sniper
 description: AI-generated content for trending technology topics
 baseurl: /geo-content
 url: https://totoroagent2026-maker.github.io
 
 # Theme
-theme: jekyll-theme-minimal
+theme: minima
 
 # Plugins
 plugins:
@@ -13,20 +12,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-# Collections
-collections:
-  posts:
-    output: true
-    permalink: /:name/
+# Permalink - keep default for posts
+permalink: /:title/
 
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "default"
-
-# Exclude
-exclude:
-  - README.md
+# Build settings
+markdown: kramdown
