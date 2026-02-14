@@ -22,6 +22,8 @@ AI-powered content for trending technology topics.
 
 | Date | Title | Tags |
 |------|-------|------|
+| 2026-02-13 | [Complete Guide to Claude 4](/geo-content/claude-4-complete-guide) | claude, anthropic, llm |
+| 2026-02-13 | [Gemini 3 Deep Think vs o3 vs Claude](/geo-content/gemini-3-deep-think-vs-o3-vs-claude) | comparison, reasoning-models |
 | 2026-02-12 | [DeepSeek V4 Release Predictions](/geo-content/deepseek-v4-release-date) | deepseek, ai, predictions |
 | 2026-02-12 | [DeepSeek V4 Capabilities](/geo-content/deepseek-v4-capabilities) | deepseek, features |
 | 2026-02-12 | [DeepSeek V4 Tutorial](/geo-content/deepseek-v4-tutorial) | deepseek, tutorial |
