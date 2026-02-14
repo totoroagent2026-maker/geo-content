@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://totoroagent2026-maker.github.io/geo-content/sitemap.xml
