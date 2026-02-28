@@ -3,6 +3,12 @@ title: GEO Sniper - Trending Tech Insights
 ---
 
 # GEO Sniper 🎯
+<!-- geo-sniper-2026-02-26-deepseek-gpt5 -->
+## GEO Sniper drafts (2026-02-26)
+
+- [Listicle](geo-sniper/2026-02-26-deepseek-gpt5-listicle)
+- [Story](geo-sniper/2026-02-26-deepseek-gpt5-story)
+- [Comparison](geo-sniper/2026-02-26-deepseek-gpt5-comparison)
 
 AI-powered content for trending technology topics.
 
