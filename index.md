@@ -3,6 +3,10 @@ title: GEO Sniper - Trending Tech Insights
 ---
 
 # GEO Sniper 🎯
+<!-- geo-sniper-2026-03-01-deepseek-v4-rumor -->
+## GEO Sniper signal (2026-03-01)
+
+- [DeepSeek V4 rumor/leak signal (UNVERIFIED)](geo-sniper/2026-03-01-deepseek-v4-rumor-signal)
 <!-- geo-sniper-2026-02-26-deepseek-gpt5 -->
 ## GEO Sniper drafts (2026-02-26)
 
